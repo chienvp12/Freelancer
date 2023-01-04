@@ -1,0 +1,100 @@
+.wrapper-container{
+    width: 100%;
+}
+.wrapper-container > h3 {
+    font-weight: 400;
+    font-size: 3rem;
+    line-height: 3.125rem;
+    letter-spacing: normal;
+
+}
+.col-md-7{
+    height: auto;
+    width: 58.3333%;
+    padding-right: 20px
+}
+.text-h4{
+    font-size: 35px;
+    font-weight: 400;
+    line-height: 2.5rem;
+    letter-spacing: 0.00735em;
+    margin-bottom: 16px;
+    color: #f9a825;
+}
+.salary > p{
+    margin-bottom: 16px;
+}
+.button-change{
+    margin-top: 16px;
+    background-color: #f9a825;
+    color: #fff;
+}
+.description-change{
+    font-size: 16px;
+    margin-top: 16px;
+    padding-bottom: 10px;
+}
+.info{
+    display: flex;
+    border-top: 1px solid #a9a9a9;
+    padding-top: 10px;
+}
+.name{
+    margin-left: 5px;
+}
+.col-md-5{
+    height: auto;
+    width: 41.6667%;
+}
+.card-container{
+    border: 1px solid rgba(0,0,0,0.12);
+    box-shadow: 0 1px 5px rgb(0 0 0 / 20%), 0 2px 2px rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%);
+    margin-bottom: 16px;
+}
+.q-card{
+    box-shadow: 0 1px 5px rgb(0 0 0 / 20%), 0 2px 2px rgb(0 0 0 / 14%), 0 3px 1px -2px rgb(0 0 0 / 12%);
+    border-radius: 4px;
+    vertical-align: top;
+    background: #fff;
+}
+.button-send{
+    padding: 20px;
+    justify-content: space-between;
+}
+.text-chat{
+    height: 470px;
+    background: #fff;
+}
+.col-md-9{
+    width: 70% ;
+    height: 50px;
+}
+.input-type{
+    height: 100%;
+}
+.button-type{
+    height: 50px;
+}
+.space-check{
+    display: flex;
+    justify-content: space-between  ;
+}
+.space-check > p{
+    width: 40%;
+}
+.button-update{
+    width: 100%;
+    margin: 5px;
+}
+.button-done{
+    background-color: #f9a825;
+}
+.button-done:hover{
+    background-color: #f9a825!important;
+    color: #fff;
+
+}
+.button-download{
+    display: flex;
+    justify-content: space-between;
+}

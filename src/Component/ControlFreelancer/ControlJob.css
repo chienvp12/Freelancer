@@ -1,0 +1,25 @@
+.text-yellow-5 {
+    color: #57de45!important;
+    text-align: center;
+}
+.container-Job{
+    min-width: 70%;
+    
+}
+.subject > p{
+    font-size: 20px;
+    font-weight: 700;
+}
+.ant-tabs-nav-wrap{
+    display: flex;
+    justify-content: space-around;
+}
+.col-md-8{
+    height: auto;
+    width: 66.6667%;
+}
+.col-md-4{
+    height: auto;
+    width: 33.3333%;
+    color: #1976d2;
+}

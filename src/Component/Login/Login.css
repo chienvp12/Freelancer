@@ -1,0 +1,37 @@
+.card-login{
+    height: 100vh;
+}
+h4{
+    text-align: center;
+    font-size: 2.125rem;
+    line-height: 2.5rem;
+    letter-spacing: 0.00735em;
+    font-weight: 700;
+}
+.login-form{
+    margin-top: 16px;
+
+}
+.login-form-button{
+    margin-top: 16px;
+    width: 100%;
+    background-color: #f9a825;
+    color: #fff;
+}
+.login-form-button:hover{
+    color: #fff !important;
+    border-color: #f9a825 !important;
+}
+.contact{
+    margin: 16px;
+    padding: 16px;
+    border-top: 1px solid rgba(85, 85, 85, 0.664);
+    text-align: center;
+}
+.contact > p{
+    margin-bottom: 10px;    
+}
+.card-login > main {
+    justify-content: center;
+    align-items: center;
+}

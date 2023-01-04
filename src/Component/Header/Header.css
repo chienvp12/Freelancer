@@ -1,0 +1,46 @@
+.q-avatar{
+    height: 38px;
+    width: 38px;
+}
+.container-header{
+    position: relative;
+    display: flex;
+    
+}
+.header-left > a{
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 15px;
+
+}
+.header-left > a > p{
+    margin-left: 15px;
+}
+.header-left > p {
+    font-size: 21px;
+    font-weight: 500;
+    letter-spacing: 0.01rem;
+    margin-left: 5px;
+}
+.q-tollbar{
+    position: relative;
+    padding: 0 12px;
+    min-height: 50px;
+    width: 100%;
+}
+
+.header-right{
+    
+    text-align: end;
+}
+.header-right > a{
+    padding: 20px;
+    color: white;
+    border-right: 1px solid #808080;
+}
+.header-right > button {
+
+    margin-left: 15px;
+    border-radius: 50%;
+}

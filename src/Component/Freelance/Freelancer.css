@@ -1,0 +1,65 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+h5{
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: normal;
+    line-height: 2rem;
+    padding:50px 0;
+}
+h3{
+    font-size: 3rem;
+    line-height: 3.125rem;
+    letter-spacing: normal;
+    font-weight: 400;
+    padding: 50px 0;
+}
+.title-freelancer{
+    margin: 10px;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.row>.col-md-6{
+    height: auto;
+    width: 46%;
+    margin-right: 20px;
+    border-bottom: 1px solid #808080;
+}
+
+
+.header-freelancer{
+    margin: 10px;
+}
+.header-freelancer > img{
+    border-radius: 50%;
+    height: 60px;
+
+}
+.title-content{
+    margin-left: 16px;
+}
+.info-income{
+    margin-right: 24px;
+    line-height: 25px;
+    font-size: 16px;
+}
+.freelancer-name{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.onsearch{
+    width: 50%;
+}
+.ant-drawer-mask{
+    background: none !important;
+}
+.ant-drawer{
+    position: fixed;
+}
+.freelancer-name{
+    cursor: pointer;
+}

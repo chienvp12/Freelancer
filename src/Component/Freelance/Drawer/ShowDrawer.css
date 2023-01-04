@@ -1,0 +1,51 @@
+.container-header{
+    justify-content: space-between; 
+}
+.boder-line{
+    border-bottom: 1px solid #a7a7a7;
+    align-items: center;
+}   
+.col-4{
+    padding-inline: 20px;
+    line-height: 32px;
+    height: auto;
+    width: 33.33%;
+    
+}
+.col-8{
+    height: auto;
+    width: 66.66%;
+    border-left: 1px solid #a7a7a7;
+
+    
+}
+.col-4-top{
+    border-bottom: 1px solid #a7a7a7;
+}
+.col-4-bottom{
+    display: flex;
+}
+.total-Earning{
+    margin-right: 10px;
+}
+.title-strong{
+    margin: 5px 0px;
+    font-size: 24px;
+    padding-inline: 20px;
+}
+.description-drawer{
+    width: 480px;
+    font-size: 16px;
+    padding-inline: 20px;
+    padding:16px
+}
+.title-work{
+    font-size: 24px;
+    padding-inline: 20px;
+}
+.text-h6{
+    font-size: 1.25rem;
+    font-weight: 500;
+    line-height: 2rem;
+    letter-spacing: 0.0125em;
+}
